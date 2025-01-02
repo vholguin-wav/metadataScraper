@@ -1,5 +1,5 @@
 #Metadata Scraper
-#02 January 2024
+#02 January 2025
 #dailypythonprojects@substack.com
 
 import os                                   #For reading directories and files
