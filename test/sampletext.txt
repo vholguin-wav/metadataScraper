@@ -1,0 +1,3 @@
+This is a sample file
+It contains foo
+And it contains bar
